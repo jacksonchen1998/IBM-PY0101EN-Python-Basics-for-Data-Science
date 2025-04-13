@@ -2,7 +2,7 @@
 
 Note and code for this lesson
 
-Enivronment: Jupyter Notebook
+Environment: Jupyter Notebook
 
 Python Version: `3.9.13`
 
@@ -23,3 +23,7 @@ Python Version: `3.9.13`
 ## Module 3 - Python Programming Fundamentals
 
 - [Conditions and Branching](./Module_3/conditions_in_python.ipynb)
+- [Functions](./Module_3/functions_in_python.ipynb)
+- [Exception Handling](./Module_3/exception_handling.ipynb)
+- [Classes and Objects](./Module_3/classes_and_objects_in_python.ipynb)
+- [Text analysis](./Module_3/text_analysis.ipynb)
